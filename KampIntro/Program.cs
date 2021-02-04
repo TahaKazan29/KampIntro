@@ -12,7 +12,7 @@ namespace KampIntro
             //değer tutucu, alias
 
             string kategoriEtiketi = "Kategoriler";
-            int ogrenciSayisi = 32000;
+            int ogrenciSayisi = 3200;
             double faizOrani = 1.45;
             bool sistemeGirisYapmisMi = true;
             double dolarDun = 7.55;
